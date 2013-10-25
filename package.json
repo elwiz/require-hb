@@ -3,5 +3,9 @@
     "version": "1.0.0",
     "description": "Require.js plugin for the handlebars template parser",
     "author": "https://github.com/elwiz",
-    "main": "hb.js"
+    "main": "hb.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/elwiz/require-hb.git"
+    },
 }
