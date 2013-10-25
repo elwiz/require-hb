@@ -1,0 +1,7 @@
+{
+    "name": "require-hb",
+    "version": "1.0.0",
+    "description": "Require.js plugin for the handlebars template parser",
+    "author": "https://github.com/elwiz",
+    "main": "hb.js"
+}
