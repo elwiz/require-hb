@@ -2,7 +2,7 @@
  * Handlebars plugin for require.js
  * @author elwiz
  */
-define(['Underscore', 'Handlebars'], function (_, Handlebars) {
+define(['underscore', 'handlebars'], function (_, Handlebars) {
     'use strict';
 
     return {
